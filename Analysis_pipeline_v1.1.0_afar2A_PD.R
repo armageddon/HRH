@@ -12,7 +12,7 @@ library(scales)
 library(treemapify)
 library(RColorBrewer)
 
-###@Julius I needed to make some changes here, yo can revert back to your version
+###@Julius I needed to make some changes here, you can revert back to your version
 date <- Sys.Date() #User should make sure this matches with date in names of csv files to be read in
 usefuldescription <- "Afar" #User should make sure this matches with names of csv files to be read in
 #usefuldescription <- scenarios$Geography_dontedit[1]
